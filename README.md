@@ -15,9 +15,8 @@
 
 <div  align="center">
   <img src="https://komarev.com/ghpvc/?username=preciousvictory">
+  
 </div>
-
-
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
