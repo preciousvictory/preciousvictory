@@ -67,15 +67,18 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousvictory&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preciousvictory&show_icons=true&locale=en&theme=dark&background=000000" alt="preciousvictory" /></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=preciousvictory&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousvictory&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="300">
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preciousvictory&" alt="Faitholo" /></p>
+
 
 <!--
   <a href="https://instagram.com/preciousvicky__">
