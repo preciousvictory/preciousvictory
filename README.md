@@ -32,7 +32,7 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Victory-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victory-a-17a11b231)
 
-- :zap: In my free time, [Check out some of what I've designed](https://drive.google.com/drive/folders/1lacD9ubol-Pe2tSJ1cP2UyhfKPCdXKZF)
+- :zap: In my free time, I'm into graphics design. [Check out some of what I've designed](https://drive.google.com/drive/folders/1lacD9ubol-Pe2tSJ1cP2UyhfKPCdXKZF)
 
 - 🌱 I’m currently a Software Engineering student at alx_africa.
 
@@ -41,14 +41,23 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
+  <img src="Images/c-programming.png" title="C" **alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="Images/canva.png" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="Images/Photoshop.png" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="Images/coreldraw.png" title="coreldraw" **alt="coreldraw" width="40" height="40"/>
 </div>
 
 ---
+#### Tools I Use
+<div>
+  <img src="Images/Google_Chrome.png" width="40" height="40" title="Google_Chrome" />&nbsp;
+  <img src="Images/GitHub.png" width="40"  height="40" title="GitHub" />&nbsp;
+  <img src="Images/command line.png" width="40"  height="40" title="Command prompt" />
+</div>
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=preciousvictory&theme=dark&background=000000)](https://git.io/streak-stats)
 
