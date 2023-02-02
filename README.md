@@ -30,7 +30,9 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 
 - 🌱 I’m currently a Software Engineering student at alx_africa,
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Victory-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victory-a-17a11b231),
+- :mailbox:How to reach me: 
+  - [![Linkedin Badge](https://img.shields.io/badge/-Victory-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victory-a-17a11b231),
+  - victoryabiodunomoniyi@gmail.com
 
 - :zap: In my free time, I'm into graphics design. [Check out some of what I've designed](https://drive.google.com/drive/folders/1lacD9ubol-Pe2tSJ1cP2UyhfKPCdXKZF),
 
