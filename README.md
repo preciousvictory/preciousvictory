@@ -34,6 +34,10 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 
 - :zap: In my free time, I'm into graphics design. [Check out some of what I've designed](https://drive.google.com/drive/folders/1lacD9ubol-Pe2tSJ1cP2UyhfKPCdXKZF)
 
+- 💬 Ask me about anything🌚,
+
+- 😄 Pronouns: She/Her,
+
 - 🌱 I’m currently a Software Engineering student at alx_africa.
 
 ---
@@ -50,12 +54,16 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 </div>
 
 ---
-#### Tools I Use
+#### :hammer_and_wrench: Tools I Use
 <div>
   <img src="Images/Google_Chrome.png" width="40" height="40" title="Google_Chrome" />&nbsp;
   <img src="Images/GitHub.png" width="40"  height="40" title="GitHub" />&nbsp;
   <img src="Images/command line.png" width="40"  height="40" title="Command prompt" />
 </div>
+
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preciousvictory" alt="faitholo" /></a> </p>
+
 ---
 
 ### :fire: My Stats :
@@ -66,6 +74,8 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="300">
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preciousvictory&" alt="Faitholo" /></p>
 
 <!--
   <a href="https://instagram.com/preciousvicky__">
