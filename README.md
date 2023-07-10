@@ -26,15 +26,17 @@
 
 I am a Frontend developer and Graphics designer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :woman_student:I'm an undergraduate in the University of Lagos studying Systems Engineering,
+- :woman_student: I'm an undergraduate at the University of Lagos studying Systems Engineering,
 
 - 🌱 I’m currently a Software Engineering student at alx_africa,
 
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me: 
   - [![Linkedin Badge](https://img.shields.io/badge/-Victory-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victory-a-17a11b231),
   - victoryabiodunomoniyi@gmail.com
 
 - :zap: In my free time, I'm into graphics design. [Check out some of what I've designed](https://drive.google.com/drive/folders/1lacD9ubol-Pe2tSJ1cP2UyhfKPCdXKZF),
+
+- I also write engaging and informative articles. Checkout some of my articles on [medium](https://medium.com/@preciousvictory)
 
 - 💬 Ask me about anything🌚,
 
