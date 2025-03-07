@@ -34,7 +34,7 @@ I am a Frontend developer and Graphics designer<img src="https://media.giphy.com
   - [![Linkedin Badge](https://img.shields.io/badge/-Victory-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victory-a-17a11b231),
   - victoryabiodunomoniyi@gmail.com
 
-- :zap: In my free time, I'm into graphics design. [Check out some of what I've designed](https://drive.google.com/drive/folders/1lacD9ubol-Pe2tSJ1cP2UyhfKPCdXKZF),
+- :zap: In my free time, I'm into graphics design. [Check out some of what I've designed](https://www.pinterest.com/preciousvicky_),
 
 - I also write engaging and informative articles. Checkout some of my articles on [medium](https://medium.com/@preciousvictory)
 
